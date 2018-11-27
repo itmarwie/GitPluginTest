@@ -3,7 +3,7 @@ public class GitTestApp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Marek");
+System.out.println("Marek i Agata");
 	}
 
 }
